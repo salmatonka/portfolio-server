@@ -1,0 +1,79 @@
+[
+    {
+        "category": "bank",
+        "title": "Hello Bank",
+        "image": "https://i.ibb.co/Dt4Qp3f/screenshot-15-02-2024-22-40-23.png",
+        "image2": "https://i.ibb.co/Xjb9v9s/screenshot-15-02-2024-22-43-59.png",
+        "image3": "https://i.ibb.co/1qwXhNq/screenshot-15-02-2024-22-47-45.png",
+        "image4": "https://i.ibb.co/FKW6f6j/screenshot-15-02-2024-22-50-33.png",
+        "image5": "https://i.ibb.co/K95whCH/screenshot-15-02-2024-22-49-03.png",
+        "fea1": "A banking group project website.",
+        "fea2": "Firebase Authentication with email password and Google account",
+        "fea3": "Users can find all kinds of banking facilities here.",
+        "fea4": "Like opening accounts, holding a Card, requesting for a Loan, deposit money, balance transfer etc.",
+        "fea5": "Admin can control all the users of the bank from the dashboard.",
+        "fea6": "Email login implemented. Used CRUD operation to manage data with the database.",
+        "tool1": "ReactJS Vite",
+        "tool2": "React Query",
+        "tool3": "Firebase",
+        "tool4": "MongoDb",
+        "tool5": "React Icons",
+        "tool6": "Netlify",
+
+        "serverLink": "https://github.com/salmatonka/hello-bank-server",
+        "clientLink": "https://github.com/salmatonka/hello-bank-client",
+
+        "liveLink": "https://65c7ac6792c2f4882d8087bb--fancy-crepe-c75d57.netlify.app"
+    },
+    {
+        "category": "mobile",
+        "title": "mMarket.com",
+        "image": "https://i.ibb.co/RYcmd9z/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-2023-09-15-03-19-14.png",
+        "image2": "https://i.ibb.co/Jkhhbp2/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-product-Detail-650037e92.png",
+        "image3": "https://i.ibb.co/hy9f5C1/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-dashboard-add-Product-20.png",
+        "image4": "https://i.ibb.co/fnQvsp2/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-dashboard-my-Products-20.png",
+        "fea1": "This is a resale product based MERN project",
+        "fea2": "Firebase Authentication with email password and Google account",
+        "fea3": "Users have to be registered to be able to see the products under different categories",
+        "fea4": "There are three types of users- Admin Seller and Buyer",
+        "fea5": "Users Details are saved during registration in the MongoDB database with node.js ",
+        "fea6": "For joining with a google pop-up the user's email is searched in MongoDB",
+        "fea7": "Custom Hook is created to check user roles from the database",
+        "tool1": "ReactJS Vite",
+        "tool2": "React Query",
+        "tool3": "Firebase",
+        "tool4": "MongoDb",
+        "tool5": "React Icons",
+        "tool6": "Netlify",
+
+        "serverLink": "",
+        "clientLink": "",
+
+        "liveLink": "https://650372adac9f650de4e3acdb--stunning-entremet-68496e.netlify.app"
+    },
+    {
+        "category": "photo",
+        "title": "Wedding Photographer",
+        "image": "https://i.ibb.co/xM57ptC/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-2023-05-05-14-03-30.png",
+        "image2": "https://i.ibb.co/XFYPT3J/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-product-2023-05-05-14-01-28.png",
+        "image3": "https://i.ibb.co/Dtp5tVt/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-booking-2-2023-05-05-14-01-5.png",
+        "image4": "https://i.ibb.co/vjnmCFm/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-about-2023-05-05-14-02-32.png",
+        "fea1": "Firebase Authentication with email password and Google account",
+        "fea2": "Users have to be registered to be able to see the places",
+        "fea3": "You can search for your favorite place to go there and book a resort",
+        "fea4": "Google sign-in popup register system",
+        "fea5": "You can book a place to go there and people are giving reviews in this category card and you can delete your own review",
+        "fea6": "In there add service section an admin can add a new service",
+        "tool1": "ReactJS",
+        "tool2": "React Query",
+        "tool3": "Firebase",
+        "tool4": "MongoDb",
+        "tool5": "React Icons",
+        "tool6": "Netlify",
+
+        "serverLink": "",
+        "clientLink": "",
+
+        "liveLink": "https://polite-trifle-4e5467.netlify.app"
+    }
+]

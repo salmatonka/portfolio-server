@@ -15,12 +15,8 @@ app.use(express.json());
 
 //mongodb
 
-
-
 // const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.ycofkd3.mongodb.net/?retryWrites=true&w=majority`;
 // console.log(uri);
-
-
 
 
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.ycofkd3.mongodb.net/?retryWrites=true&w=majority`;
@@ -38,13 +34,14 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     
-    const projectsCollection = client.db('salmaPortfoliouser').collection('projects');
+    const projectsCollection = client.db('portfolioUserDb').collection('projects');
 
 //  4 data   
 app.get('/projects', async (req, res) => {
   const query = {};
   const result = await projectsCollection.find(query).toArray();
   res.send(result)
+  // console.log(result)
 })
 
       //single mobile with unic id

@@ -1,6 +1,5 @@
 [
     {
-        "category": "bank",
         "title": "Hello Bank",
         "image": "https://i.ibb.co/Dt4Qp3f/screenshot-15-02-2024-22-40-23.png",
         "image2": "https://i.ibb.co/Xjb9v9s/screenshot-15-02-2024-22-43-59.png",
@@ -19,16 +18,12 @@
         "tool4": "MongoDb",
         "tool5": "React Icons",
         "tool6": "Netlify",
-
-        "serverLink": "https://github.com/salmatonka/hello-bank-server",
         "clientLink": "https://github.com/salmatonka/hello-bank-client",
-
-        "liveLink": "https://65c7ac6792c2f4882d8087bb--fancy-crepe-c75d57.netlify.app"
+        "liveLink": "https://velvety-platypus-31a384.netlify.app"
     },
     {
-        "category": "mobile",
         "title": "mMarket.com",
-        "image": "https://i.ibb.co/RYcmd9z/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-2023-09-15-03-19-14.png",
+        "image": "https://i.ibb.co/NghzzLq2/screencapture-silly-brioche-c20d4c-netlify-app-2025-07-01-18-36-35.png",
         "image2": "https://i.ibb.co/Jkhhbp2/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-product-Detail-650037e92.png",
         "image3": "https://i.ibb.co/hy9f5C1/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-dashboard-add-Product-20.png",
         "image4": "https://i.ibb.co/fnQvsp2/screencapture-650372adac9f650de4e3acdb-stunning-entremet-68496e-netlify-app-dashboard-my-Products-20.png",
@@ -45,14 +40,10 @@
         "tool4": "MongoDb",
         "tool5": "React Icons",
         "tool6": "Netlify",
-
-        "serverLink": "",
         "clientLink": "",
-
-        "liveLink": "https://650372adac9f650de4e3acdb--stunning-entremet-68496e.netlify.app"
+        "liveLink": "https://silly-brioche-c20d4c.netlify.app"
     },
     {
-        "category": "photo",
         "title": "Wedding Photographer",
         "image": "https://i.ibb.co/xM57ptC/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-2023-05-05-14-03-30.png",
         "image2": "https://i.ibb.co/XFYPT3J/screencapture-6454b799b0988272bc6f2840-lovely-gaufre-29464c-netlify-app-product-2023-05-05-14-01-28.png",
@@ -70,10 +61,62 @@
         "tool4": "MongoDb",
         "tool5": "React Icons",
         "tool6": "Netlify",
-
-        "serverLink": "",
         "clientLink": "",
-
-        "liveLink": "https://polite-trifle-4e5467.netlify.app"
+        "liveLink": "https://tangerine-gnome-2d939f.netlify.app"
+    },
+    {
+        "title": "Old Portfolio",
+        "image": "https://i.ibb.co/BKQJ48nR/screencapture-stellular-marshmallow-1230e6-netlify-app-home-2025-05-15-21-27-40.png",
+        "liveLink": "https://stellular-marshmallow-1230e6.netlify.app"
+    },
+    {
+        "title": "GlassDoor",
+        "image": "https://i.ibb.co/GfXPD9M7/screencapture-jovial-churros-b9b99f-netlify-app-2025-05-22-12-11-28.png",
+        "liveLink": "https://jovial-churros-b9b99f.netlify.app"
+    },
+    {
+        "title": "",
+        "image": "",
+        "liveLink": ""
+    },
+    {
+        "title": "Choose Your Favourite Five Players",
+        "image": "https://i.ibb.co/WvH2vyqD/screencapture-guileless-malabi-0f245c-netlify-app-2025-05-22-12-29-02.png",
+        "liveLink": "https://guileless-malabi-0f245c.netlify.app"
+    },
+    {
+        "title": "Quiz Game",
+        "image": "https://i.ibb.co/2YH2WhK2/screencapture-subtle-sorbet-ee7826-netlify-app-2025-05-22-12-13-01.png",
+        "liveLink": "https://subtle-sorbet-ee7826.netlify.app"
+    },
+    {
+        "title": "BBC World Service",
+        "image": "https://i.ibb.co/FqJQbdxB/screencapture-bright-choux-574ba8-netlify-app-2025-05-22-12-12-35.png",
+        "liveLink": "https://bright-choux-574ba8.netlify.app"
+    },
+    {
+        "title": "ExerciseFor Kids",
+        "image": "https://i.ibb.co/SDYcRJr5/screencapture-gleeful-paprenjak-4c1c25-netlify-app-2025-05-22-12-12-21.png",
+        "liveLink": "https://gleeful-paprenjak-4c1c25.netlify.app"
+    },
+    {
+        "title": "Choose Your Favorute Five Flowers",
+        "image": "https://i.ibb.co/BH4jQkSd/screencapture-animated-gnome-81d5e7-netlify-app-2025-05-22-12-20-33.png",
+        "liveLink": "https://animated-gnome-81d5e7.netlify.app"
+    },
+    {
+        "title": "",
+        "image": "",
+        "liveLink": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "liveLink": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "liveLink": ""
     }
 ]

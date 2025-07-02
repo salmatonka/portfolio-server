@@ -9,11 +9,14 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 //middleware
+app.use(cors({origin:'*'}));
+//middleware
 // app.use(cors());
-app.use(cors({
-  origin: 'http://localhost:5173', // or "*" for any origin
-  credentials: true // if using cookies or auth headers
-}));
+// app.use(cors({
+//   // origin: 'http://localhost:5173', // or "*" for any origin
+//   origin: 'https://curious-profiterole-9b5d2d.netlify.app/', // or "*" for any origin
+//   credentials: true // if using cookies or auth headers
+// }));
 app.use(express.json());
 
 
